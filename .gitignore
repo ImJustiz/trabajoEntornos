@@ -1,2 +1,3 @@
-texto1.txt
-texto2.txt
+# Vamos a hacer que el .gitignore obvie todos los archivos .txt de la carpeta 
+*.txt
+
